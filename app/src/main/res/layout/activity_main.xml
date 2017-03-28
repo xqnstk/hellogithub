@@ -16,4 +16,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/btnhello"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="09시"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="332dp" />
+
 </android.support.constraint.ConstraintLayout>
